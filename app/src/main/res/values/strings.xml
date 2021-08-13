@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name:</string>
+    <string name="arief_nugraha">Arief Nugraha</string>
+    <string name="url">Url:</string>
+    <string name="https_github_com_ariefnugrahaa">https://github.com/ariefnugrahaa</string>
+    <string name="open_android">open-android</string>
+    <string name="owner">Owner:</string>
+    <string name="search_repositories">Search Repositories</string>
+</resources>

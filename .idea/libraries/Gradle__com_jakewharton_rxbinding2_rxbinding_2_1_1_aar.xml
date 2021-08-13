@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding2:rxbinding:2.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83d0c805235d21cd8b43c29be258b3f/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83d0c805235d21cd8b43c29be258b3f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c83d0c805235d21cd8b43c29be258b3f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ab95e309954ac3943f84b7c4c3b97fc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2439a4f77e7c6fcfa6c30dd9c33ef50b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2439a4f77e7c6fcfa6c30dd9c33ef50b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2439a4f77e7c6fcfa6c30dd9c33ef50b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding2/rxbinding/2.1.1/b7f46cf6b5e174a32774fec5f2ad38c63fdf4b27/rxbinding-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
